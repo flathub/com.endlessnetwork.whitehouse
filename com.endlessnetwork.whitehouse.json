@@ -40,12 +40,12 @@
                 {
                     "type": "git",
                     "url": "https://github.com/endless-network/WhiteHouse_Binary.git",
-                    "commit":"95abcd1648695973f1f8e88b156038536e57115c"
+                    "commit":"e9d592737ff4f2fd6ce7ece0edb878afb38436e3"
                 },
                 {
                     "type": "file",
-                    "url": "https://github.com/endless-network/WhiteHouse_Binary/releases/download/v0.37/WhiteHouse.zip",
-                    "sha256":"553ad6768541ca0143d688f4df1d0401c4ba58f197ee5d9468672f1a1ce6f6f3"
+                    "url": "https://github.com/endless-network/WhiteHouse_Binary/releases/download/v1.175/WhiteHouse.zip",
+                    "sha256":"19e08b0aac64666b9164e62c261227eb42e943924abf8dec730eb75ca8fb78f2"
                 }
             ]
         }
