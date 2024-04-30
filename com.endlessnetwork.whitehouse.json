@@ -1,7 +1,7 @@
 {
     "app-id": "com.endlessnetwork.whitehouse",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "21.08",
+    "runtime-version": "23.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "com.endlessnetwork.whitehouse.sh",
     "separate-locales": false,
@@ -40,7 +40,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/endless-network/WhiteHouse_Binary.git",
-                    "commit":"e9d592737ff4f2fd6ce7ece0edb878afb38436e3"
+                    "commit": "69a0182a22e3a92b152dacc509939d33cfef46a0"
                 },
                 {
                     "type": "file",
