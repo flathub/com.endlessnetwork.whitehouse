@@ -40,7 +40,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/endless-network/WhiteHouse_Binary.git",
-                    "commit":"e9d592737ff4f2fd6ce7ece0edb878afb38436e3"
+                    "commit": "69a0182a22e3a92b152dacc509939d33cfef46a0"
                 },
                 {
                     "type": "file",
