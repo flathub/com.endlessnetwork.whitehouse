@@ -1,7 +1,7 @@
 {
     "app-id": "com.endlessnetwork.whitehouse",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "23.08",
+    "runtime-version": "25.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "com.endlessnetwork.whitehouse.sh",
     "separate-locales": false,
@@ -10,7 +10,8 @@
         "strip": true
     },
     "finish-args": [
-        "--share=ipc", "--socket=x11",
+        "--share=ipc",
+        "--socket=x11",
         "--socket=pulseaudio",
         "--device=dri"
     ],
